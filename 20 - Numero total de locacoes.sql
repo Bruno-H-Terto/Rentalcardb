@@ -1,0 +1,4 @@
+-- Número total de locações
+SELECT COUNT(*) AS NUMBER_LOCATIONS
+FROM LOCATIONS;
+
