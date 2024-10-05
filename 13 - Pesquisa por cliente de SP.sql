@@ -1,0 +1,3 @@
+-- Pesquisa por NAME, LASTNAME e EMAIL de clientes que moram em SP
+SELECT NAME, LASTNAME, EMAIL
+FROM CUSTOMERS WHERE STATE = 'SP';
